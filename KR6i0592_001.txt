@@ -1,22 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:21.586371
+#+DATE: 2015-08-30 20:23:22.658213
 #+TITLE: 轉法輪經憂波提舍
 #+PROPERTY: CBETA_ID T26n1533
 #+PROPERTY: ID KR6i0592
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1533
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0592_T_001-0355c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1533¶
+No. 1533¶
 
-憂波提舍翻譯之記
-:PROPERTIES:
-:head: 《轉法輪經》憂波提舍翻譯之記
-:END:
-¶
+《轉法輪經》憂波提舍翻譯之記¶
 ¶
 
 轉法輪經。如來初說。憂波提舍義門之名。¶
@@ -30,8 +26,7 @@ No.1533¶
 譯錄記。¶
 ¶
 ¶
-
- 轉法輪經憂波提舍(有釋論無經本)¶
+轉法輪經憂波提舍(有釋論無經本)¶
 ¶
 天親菩薩造¶
 元魏天竺三藏毘目智仙譯¶
